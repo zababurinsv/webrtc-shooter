@@ -7,3 +7,5 @@ A short experiment on making peer to peer game with webrtc and impactjs
 2. npm run signalling
 3. npm run http
 4. visit http://localhost:8080
+
+https://habr.com/ru/company/badoo/blog/315812/
